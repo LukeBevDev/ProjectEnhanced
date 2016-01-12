@@ -12,6 +12,19 @@
     <dependencyManagement>
         <dependencies>
 
+            <!-- Jetty dependencies -->
+            <dependency>
+                <groupId>org.eclipse.jetty</groupId>
+                <artifactId>jetty-server</artifactId>
+                <version>9.3.7.RC0</version>
+            </dependency>
+            <dependency>
+                <groupId>org.eclipse.jetty</groupId>
+                <artifactId>jetty-util</artifactId>
+                <version>9.3.7.RC0</version>
+            </dependency>
+            <!-- End Jetty dependencies -->
+
             <!-- Guava dependencies -->
             <dependency>
                 <groupId>com.google.guava</groupId>
