@@ -3,3 +3,4 @@
 /RestService/*.iml
 /RestService/target/classes
 /AngularJsWebApp/*.iml
+*.class
