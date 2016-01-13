@@ -1,4 +1,4 @@
-package com.bevan.projectenhance.angularjswebapp;
+package com.bevan.projectenhanced.angularjswebapp;
 
 import org.eclipse.jetty.server.Server;
 import org.eclipse.jetty.webapp.WebAppContext;
